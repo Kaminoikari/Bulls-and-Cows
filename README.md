@@ -3,7 +3,7 @@
 
 Description
 
-Try to reproduce the classical game Bulls and Cows I've played in my childhood. A little animation when submit correct and incorrect guess.
+A replicate for the classical game Bulls and Cows. A little animation when submit correct and incorrect guess.
 
 How to Play
 
